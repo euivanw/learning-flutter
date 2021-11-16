@@ -8,7 +8,7 @@ Conhece algum curso, comunidade, canal ou podcast sobre Flutter? Abra um Pull Re
 
 - [Dart/Flutter: Fundamental](FUNDAMENTALS.md)
 - [Dart/Flutter: Intermediário](INTERMEDIATE.md)
-- [Dart/Flutter: Avançado](ADVANCED.dart)
+- [Dart/Flutter: Avançado](ADVANCED.md)
 
 ## Comunidades, Grupos e Canais
 
